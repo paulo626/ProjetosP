@@ -114,11 +114,3 @@ function Validar(){
         console.log(Senha)
     }
 }
-
-var lista = ['pokemon']
-var lista2 = ['pokemon']
-let elemento = "esquardou"
-let elemento2 = 'quadrobranco'
-lista.push(elemento)
-lista.push(elemento2)
-if(lista.includes(elemento)){console.log('deu bom')}else{console.log('tem coisa errada')}
